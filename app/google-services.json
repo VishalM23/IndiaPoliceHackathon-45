@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "949335967849",
+    "firebase_url": "https://indiapolicehack.firebaseio.com",
+    "project_id": "indiapolicehack",
+    "storage_bucket": "indiapolicehack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949335967849:android:167ce7efeded879b9a7af8",
+        "android_client_info": {
+          "package_name": "com.example.indiapolicehack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949335967849-t69v2g9mbli5gl1qs54ftrtgdimjifjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.indiapolicehack",
+            "certificate_hash": "45361b32ace565bfdc5f7a4f0660758dc8a31830"
+          }
+        },
+        {
+          "client_id": "949335967849-7kp5oivmu20a2aitgn71kr2rt648m5ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtsoaDJoUxyEKwcZeczGgIW_D4UDZBn8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949335967849-7kp5oivmu20a2aitgn71kr2rt648m5ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949335967849:android:8c6b40b88ce428339a7af8",
+        "android_client_info": {
+          "package_name": "com.simcoder.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949335967849-jrjhcij82v1l8b89oidesdfo81al2ovq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simcoder.whatsappclone",
+            "certificate_hash": "45361b32ace565bfdc5f7a4f0660758dc8a31830"
+          }
+        },
+        {
+          "client_id": "949335967849-7kp5oivmu20a2aitgn71kr2rt648m5ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtsoaDJoUxyEKwcZeczGgIW_D4UDZBn8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949335967849-7kp5oivmu20a2aitgn71kr2rt648m5ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
